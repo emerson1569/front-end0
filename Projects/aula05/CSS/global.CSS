@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: flex-start;
+}
+h1{
+    font-size: 20px
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+.textos{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+p{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 600px;
+}
